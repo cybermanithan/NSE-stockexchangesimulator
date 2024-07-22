@@ -1,8 +1,6 @@
-# StockFlip
+# NSE-Stock_simulator
+NSE-Stock_simulator is a stock market portfolio simulator for the NASDAQ market. 
 
-StockFlip is a stock market portfolio simulator for the NASDAQ market. 
-
-![alt text](https://raw.githubusercontent.com/welshbrad/StockFlip/master/IMG_0389.PNG)
 
 ## Details
 
@@ -14,16 +12,10 @@ Python 3 back-end with PyQt5 cross-platform GUI
 Disclaimer: This application needs to have a steady Internet connection to operate effectively.  
 
 ## Dependencies
+pip install -r requirements.txt
 
-pip install PyQt5  
-pip install plotly  
-pip install iexfinance  
-pip install requests-cache  
-pip install pandas  
 
 ## Run
 
-Python 3.7  
-
-run-> cd StockFlip/  
+Python 3.7    
 run-> python App.py
