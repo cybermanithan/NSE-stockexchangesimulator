@@ -1,1 +1,0 @@
-print("this is a prototype using streamlit")

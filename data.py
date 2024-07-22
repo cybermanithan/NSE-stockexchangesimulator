@@ -1,1 +1,0 @@
-print("here the data  will be collected and processed ")
